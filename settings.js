@@ -23,26 +23,26 @@ global.botname = process.env.BOT_NAME || 'CypherX'
 //Your desired bot name
 
 //=================================================//
-global.ownernumber = process.env.OWNER_NUMBER || '254754783972' 
+global.ownernumber = process.env.OWNER_NUMBER || '201553103224' 
 //Type your main number here
 
 //=================================================//
-global.sudo = process.env.SUDO ? process.env.SUDO.split(',') : ['254796180105', '254712345678'];
+global.sudo = process.env.SUDO ? process.env.SUDO.split(',') : ['201553103224', '201112141562'];
 // Type additional allowed users here
 //NB: They'll be able to use every functions of the bot without restrictions.
 
 //=================================================//
-global.ownername = process.env.OWNER_NAME || 'Tylor' 
+global.ownername = process.env.OWNER_NAME || 'Dagger' 
 //Type your name here
 
 //=================================================//
-global.plink = process.env.PLINK || "https://www.instagram.com/heyits_tylor?igsh=YzljYTk1ODg3Zg=="
+global.plink = process.env.PLINK || "https://chat.whatsapp.com/B88WZZ3dM5O7r4xQoMRdMl"
 
 //=================================================//
 global.wm = process.env.GL_WM || "©CypherX"
 
 //=================================================//
-global.packname = process.env.STICKER_PACK_NAME || "Cypher" 
+global.packname = process.env.STICKER_PACK_NAME || "Dagger" 
 //The sticker pack name
 
 //=================================================//
@@ -87,7 +87,7 @@ global.welcome = process.env.WELCOME_MSG || 'false'
 // set true to enable and false to disable welcoming and left messages to groups upon joining or leaving groups
 
 //=================================================//
-global.timezones = process.env.TIMEZONE || "Africa/Nairobi" 
+global.timezones = process.env.TIMEZONE || "Africa/Cairo" 
 //Don't edit this if you don't know!
 
 //=================================================//
